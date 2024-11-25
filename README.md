@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [https://github.com/Maximilianus141/ForgemodpackInstaller](https://github.com/Maximilianus141/ForgemodpackInstaller)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Go** and **Java**
 
 - 📫 How to reach me **corruptcow2@gmail.com**
 
