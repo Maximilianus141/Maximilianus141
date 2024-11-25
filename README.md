@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">I'm doing an apprenticeship as an application developer</h3>
+<h3 align="center">I'm an apprentice as an application developer from Switzerland</h3>
 
 - 🔭 I’m currently working on [https://github.com/Maximilianus141/ForgemodpackInstaller](https://github.com/Maximilianus141/ForgemodpackInstaller)
 
