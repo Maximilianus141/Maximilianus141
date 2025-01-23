@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">I'm an apprentice as an application developer from Switzerland</h3>
 
-- 🔭 I’m currently working on [https://github.com/Maximilianus141/ForgemodpackInstaller](https://github.com/Maximilianus141/ForgemodpackInstaller)
-
-- 🌱 I’m currently learning **Go** and **Java**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **corruptcow2@gmail.com**
 
