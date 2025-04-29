@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">I'm an apprentice as an application developer from Switzerland</h3>
+<h3 align="center">I am an application developer apprentice from Switzerland</h3>
 
 - 🌱 I’m currently learning **C++**
 
