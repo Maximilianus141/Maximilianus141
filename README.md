@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **corruptcow2@gmail.com**
+- 📫 How to reach me Discord username: **cowheheh**
 
 
 <h3 align="left">Languages and Tools:</h3>
