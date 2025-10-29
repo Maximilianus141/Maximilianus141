@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">I am an application developer apprentice from Switzerland</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Typescript** and **Angular**
 
 - 📫 How to reach me Discord username: **cowheheh**
 
