@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h2>💫 About Me</h2>
 I'm an apprentice application developer from switzerland! <br>
-Currently, I'm learning <b>Rust</b> in my free time<br>
+Currently, I'm learning <b>Flutter</b><br>
 
 
 ## 🌐 Socials:
